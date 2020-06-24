@@ -1,0 +1,113 @@
+$primary: #fa6f57
+$bg: #e2e2e2   
+body
+    background-color: $bg
+.filter-container
+    padding-left: 3px
+    padding-bottom: 20px
+    padding-top: 5px
+    margin-right: 0px !important
+    width: 450px
+    float: left
+
+.filter-h1,.filter-header
+    color: white
+    background-color: $primary
+    font-size: 30px
+    padding: 12px
+    text-align: center
+.category-item-header
+    font-size: 20px
+
+.category-list
+    padding: 12px
+    background: white
+.shoes-item-container, .bags-item-container
+    display: flex
+    flex-direction: column
+input[type="checkbox"]
+    display: none
+
+label
+    text-align: left
+    padding-left: 30px
+    color: #c2bdbd
+    font-weight: bold
+    &:hover
+        color: black !important
+        cursor: pointer
+.size-container label
+    border: 2px solid #c2bdbd
+    border-radius: 50%
+    padding: 2px 8px
+    text-align: center
+    &:hover
+        border-color: black
+        color: black
+.size-container
+    text-align: left
+    label
+        margin-right: 8px !important
+.item-container
+    padding-bottom: 20px
+
+.filter-btn
+    width: 100%
+
+input[type=checkbox]:checked + label
+    color: black
+    border-color: black
+
+input:not(:checked) + label
+    color: #c2bdbd
+    border-color: #c2bdbd
+
+.right_icon
+    color: white
+    margin-top: 3px
+    font-size: 18px
+.down_icon
+    color: white
+    margin-top: 3px
+    font-size: 18px  
+.btn-filter
+    color: white
+    font-size: 20px
+    margin-right: 223px
+    cursor: pointer
+   
+button
+    cursor: pointer
+    &:focus
+        outline: none
+        box-shadow: 0px 0px 0px 0px !important
+@media (max-width: 767px)
+    .filter-container
+        position: relative
+    .category-list-form
+        position: absolute
+        top: 100%
+        left: 0
+        width: 100%
+        cursor: pointer
+        z-index: -1
+        transition: all 1s ease
+        transform: translateX(-150%)
+        border-top: 1px solid #ccc5c5 
+        &.active
+            transform: translateX(0)
+            z-index: 3
+    .filter-btn
+        width: 100%
+        border-radius: 0px
+        padding: 8px
+    .right_icon
+        &.active
+            display: none
+    .down_icon
+        &.active
+            display: none
+    .filter-header
+        background: transparent
+    .filtered-btn
+        background-color: $primary

@@ -1,0 +1,1641 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "itemNo": "J1ZM7GXU",
+            "name": "LEATHER cowboy boots",
+            "brand": "BERSHKA",
+            "description": "Heel height: 4.5cm  cmLeg width: 17cm  cmLeg length: 30cm",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5423/031/105/5423031105_1_1_3.jpg?t=1574942774815",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5423/031/105/5423031105_2_3_3.jpg?t=1574942774815",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5423/031/105/5423031105_2_4_3.jpg?t=1574942774815"
+            ]
+        },
+        {
+            "id": 2,
+            "itemNo": "S1AZ879B",
+            "name": "High-heel sock-style ankle boots",
+            "brand": "BERSHKA",
+            "description": "Heel height: 8.5 cm",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5950/031/040/5950031040_1_1_3.jpg?t=1574942753589",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5950/031/040/5950031040_2_4_3.jpg?t=1574942753589",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5950/031/040/5950031040_2_2_3.jpg?t=1565952094240"
+            ]
+        },
+        {
+            "id": 3,
+            "itemNo": "QKHP01R4",
+            "name": "High-heel track-sole ankle boots",
+            "brand": "BERSHKA",
+            "description": "Platform height: 5cm",
+            "price": 75,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5098/031/040/01/5098031040_1_1_3.jpg?t=1574935155305",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5098/031/040/01/5098031040_2_4_3.jpg?t=1574935155305",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5098/031/040/01/5098031040_2_2_3.jpg?t=1570536930548"
+            ]
+        },
+        {
+            "id": 4,
+            "itemNo": "CHR3PK8J",
+            "name": "Leather",
+            "brand": "MANGO",
+            "description": "Leather cowboy ankle boots",
+            "price": 200,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093739_99_D3.jpg?ts=1561991839799&imwidth=256&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093739_99.jpg?ts=1561991839799&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093739_99_B.jpg?ts=1561995903371&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 5,
+            "itemNo": "0SJ1L4PV",
+            "name": "Leather",
+            "brand": "MANGO",
+            "description": "Lace-up leather boots",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095919_61.jpg?ts=1565019366419&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095919_61_D3.jpg?ts=1565019366419&imwidth=256&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095919_61_B.jpg?ts=1565019366419&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 6,
+            "itemNo": "M7EWDOZ5",
+            "name": "Nike SFB Field 2 8",
+            "brand": "NIKE ",
+            "description": "a lightweight high-performance boot designed to support heavier loads in all theaters.",
+            "price": 200,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c7sqcxih1o3tgeydmggu/sfb-field-2-8-tactical-boot-gkRtlh.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/dg5yraqoqa52hgztpkzn/sfb-field-2-8-tactical-boot-gkRtlh.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dnymaso4ypoj4cfafy0o/sfb-field-2-8-tactical-boot-gkRtlh.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "itemNo": "82MP1JSV",
+            "name": "Nike SFB Field 2 8",
+            "brand": "NIKE",
+            "description": " Black/Bright Ceramic/Clear/Thunder Blue",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/szvmkpwq4zses3stwcqt/air-force-1-winter-gore-tex-boot-jl4943.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/gpeunigh8axkuf39egsl/air-force-1-winter-gore-tex-boot-jl4943.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/gxftdpahwwhv7pugaylg/air-force-1-winter-gore-tex-boot-jl4943.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "itemNo": "ZRFLS49J",
+            "name": "XL sole hiking trainers",
+            "brand": "BERSHKA",
+            "description": "Heel height: 6cm. Platform height: 3.5cm",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5281/031/001/5281031001_1_1_3.jpg?t=1574942773779",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5281/031/001/5281031001_2_2_3.jpg?t=1565774110566",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5281/031/001/5281031001_2_4_3.jpg?t=1574942773779"
+            ]
+        },
+        {
+            "id": 9,
+            "itemNo": "BR8GDXZ1",
+            "name": "Hiking trainers with neon details",
+            "brand": "BERSHKA",
+            "description": "Heel height: 5 cm. Platform height: 3.5 cm. White trainers with contrast black mesh, rubber pieces and neon lime lining and details.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5296/031/001/5296031001_1_1_3.jpg?t=1574942772508",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5296/031/001/5296031001_2_3_3.jpg?t=1574942772508",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5296/031/001/5296031001_2_4_3.jpg?t=1574942772508"
+            ]
+        },
+        {
+            "id": 10,
+            "itemNo": "BH8IPOU4",
+            "name": "Contrast XL sole trainers",
+            "brand": "BERSHKA",
+            "description": "Heel height: 6cm. Platform height: 4cm. Black trainers in different materials. Featuring black and white lightweight XL soles.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5267/031/040/5267031040_1_1_3.jpg?t=1574942777726",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5267/031/040/5267031040_2_3_3.jpg?t=1574942777726",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5267/031/040/5267031040_2_4_3.jpg?t=1574942777726"
+            ]
+        },
+        {
+            "id": 11,
+            "itemNo": "0RCHL5BJ",
+            "name": "Leather",
+            "brand": "MANGO",
+            "description": "Maxi multicolor sneakers.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050551_99_D6.jpg?ts=1572960959684&imwidth=342&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050551_99.jpg?ts=1572960959684&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050551_99_B.jpg?ts=1572960959684&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 12,
+            "itemNo": "7Z4HCWDR",
+            "name": "Leather",
+            "brand": "MANGO",
+            "description": "Maxi sole sneakers.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020575_02_D3.jpg?ts=1574679853580&imwidth=256&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020575_02.jpg?ts=1574679853580&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020575_02_B.jpg?ts=1574679853580&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 13,
+            "itemNo": "SPONQMZ8",
+            "name": "Training Shoe Nike Free TR8",
+            "brand": "NIKE",
+            "description": "White/Pure Platinum/Electric Green/Metallic Silver",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/ohhuie0soqm5symwclsu/free-tr8-womens-gym-hiit-cross-training-shoe-9O38Er.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/mtw1uocycvka5qgipxlp/free-tr8-womens-gym-hiit-cross-training-shoe-9O38Er.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/szmp1wehaqwbpogjamsr/free-tr8-womens-gym-hiit-cross-training-shoe-9O38Er.jpg"
+            ]
+        },
+        {
+            "id": 14,
+            "itemNo": "FN1AM0U9",
+            "name": "Nike Free X Metcon 2",
+            "brand": "NIKE",
+            "description": "Phantom/Parachute Beige/Bleached Coral/Light Orewood Brown",
+            "price": 200,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/qbfgbvcsukggcjkfkp2h/react-element-55-womens-shoe-t0BNJn.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/zlzrmlaqgfvt9bs84wvj/react-element-55-womens-shoe-t0BNJn.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/hnmhgr5dbmqzte0tacmi/react-element-55-womens-shoe-t0BNJn.jpg"
+            ]
+        },
+        {
+            "id": 15,
+            "itemNo": "26L1TOQA",
+            "name": " Methacrylate high heel shoes",
+            "brand": "BERSHKA",
+            "description": "Heel height: 8.5 cm. High heel d'Orsay shoes with ankle strap, methacrylate heel, patent finish material and pointed toe..",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sandals",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/1/1/p/1310/560/102/1310560102_1_1_3.jpg?t=1574939064040",
+                "https://static.bershka.net/4/photos2/2020/V/1/1/p/1310/560/102/1310560102_2_3_3.jpg?t=1574939064040",
+                "https://static.bershka.net/4/photos2/2020/V/1/1/p/1310/560/102/1310560102_2_4_3.jpg?t=1574939064040"
+            ]
+        },
+        {
+            "id": 16,
+            "itemNo": "MGRTL16O",
+            "name": "Metallic heel sandals",
+            "brand": "BERSHKA",
+            "description": "Heel height: 8cm. Golden strappy sandals with buckled ankle strap for fastening.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sandals",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5327/031/091/5327031091_1_1_3.jpg?t=1574942749514",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5327/031/091/5327031091_2_2_3.jpg?t=1565774104780",
+                "https://static.bershka.net/4/photos2/2019/I/1/1/p/5327/031/091/5327031091_2_4_3.jpg?t=1574942749514"
+            ]
+        },
+        {
+            "id": 17,
+            "itemNo": "LB3PNK8Q",
+            "name": "Ankle-cuff sandals",
+            "brand": "MANGO",
+            "description": "Heel height: 8cm. Golden strappy sandals with buckled ankle strap for fastening.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sandals",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093047_CG.jpg?ts=1559147608818&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093047_CG_D2.jpg?ts=1559147608818&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093047_CG_B.jpg?ts=1559147608818&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 18,
+            "itemNo": "WD36RO5H",
+            "name": "Croc-effect sandals",
+            "brand": "MANGO",
+            "description": "Crocodile effect. Decorative straps. Front slit. Ankle bracelet. Buckle. Wide heel. 11 cm heel.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "type": "women_shoes",
+            "category": "sandals",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63120585_99.jpg?ts=1572883558282&imwidth=456&imdensity=1",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63120585_99_B.jpg?ts=1572883558282&imwidth=456&imdensity=1",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63120585_99_D2.jpg?ts=1572883558282&imwidth=456&imdensity=1"
+            ]
+        },
+        {
+            "id": 19,
+            "itemNo": "618GFM3Z",
+            "name": "Men’s LEATHER ankle boots with gores",
+            "brand": "BERSHKA",
+            "description": "Black Chelsea boots.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "boots",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/7916/132/040/7916132040_1_1_3.jpg?t=1574937510767",
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/7916/132/040/7916132040_2_2_3.jpg?t=1574433203085",
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/7916/132/040/7916132040_2_4_3.jpg?t=1574937510767"
+            ]
+        },
+        {
+            "id": 20,
+            "itemNo": "BRWE8HXZ",
+            "name": "Leather boot",
+            "brand": "MANGO",
+            "description": "Stitching leather boots.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "boots",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53053759_30.jpg?ts=1565960381394&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53053759_30_D2.jpg?ts=1565960381394&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53053759_30_B.jpg?ts=1565960381394&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 21,
+            "itemNo": "TPE3NGO9",
+            "name": "Outdoor Boot",
+            "brand": "NIKE",
+            "description": "a lightweight high-performance boot made with durable leather and breathable canvas for all-day comfort.",
+            "price": 200,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/aujaiiynk2qbda8exbq0/sfb-field-2-8-realtree-gore-tex-outdoor-boot-vbtN3W.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/sk33cmumjhpcgc1imtuu/sfb-field-2-8-realtree-gore-tex-outdoor-boot-vbtN3W.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/ggfpxfippc3ftued4ygb/sfb-field-2-8-realtree-gore-tex-outdoor-boot-vbtN3W.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "itemNo": "6EU9MKJB",
+            "name": "Tactical Boot",
+            "brand": "NIKE",
+            "description": " lightweight, waterproof tactical boot designed for speed and flexibility in challenging conditions.",
+            "price": 200,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/rlgvsccz2m7h52sedqxt/sfb-gen-2-8-gore-tex-tactical-boot-KOwpoo.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/dd3khpmgcay4ephrotnc/sfb-gen-2-8-gore-tex-tactical-boot-KOwpoo.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/ildqnuhjg08rvydw1jlk/sfb-gen-2-8-gore-tex-tactical-boot-KOwpoo.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "itemNo": "5PG7BRU8",
+            "name": "Men's Duckboot Nike Lunar Force",
+            "brand": "NIKE",
+            "description": "a lightweight high-performance boot made with durable leather and breathable canvas for all-day comfort.",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/j3d4nwuscqfocjg77h0o/lunar-force-1-18-mens-duckboot-XhvG1d.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/cygj5nnp30xcgklcoyp9/lunar-force-1-18-mens-duckboot-XhvG1d.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/ooiv0mohzmribgovtkcy/lunar-force-1-18-mens-duckboot-XhvG1d.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "itemNo": "NBCILMF3",
+            "name": "Men’s contrast trainers with piece detailing",
+            "brand": "BERSHKA",
+            "description": "Contrast mesh trainers with multi-piece detailing in different colours.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/2300/560/202/2300560202_1_1_3.jpg?t=1574937433018",
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/2300/560/202/2300560202_2_3_3.jpg?t=1574937433018",
+                "https://static.bershka.net/4/photos2/2020/V/1/2/p/2300/560/202/2300560202_2_4_3.jpg?t=1574937433018"
+            ]
+        },
+        {
+            "id": 25,
+            "itemNo": "BKJPNZ1G",
+            "name": "Men’s sock-style high-top trainers",
+            "brand": "BERSHKA",
+            "description": "Black mesh trainers with decorative laces and technical pieces.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7102/132/040/7102132040_1_1_3.jpg?t=1574937506166",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7102/132/040/7102132040_2_3_3.jpg?t=1574937506166",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7102/132/040/7102132040_2_4_3.jpg?t=1574937506166"
+            ]
+        },
+        {
+            "id": 26,
+            "itemNo": "T07RWVFA",
+            "name": "Men’s metallic hiking trainers",
+            "brand": "BERSHKA",
+            "description": "Silver trainers with contrast black and orange pieces.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7254/132/092/7254132092_1_1_3.jpg?t=1574937516995",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7254/132/092/7254132092_2_2_3.jpg?t=1568815845772",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7254/132/092/7254132092_2_4_3.jpg?t=1574937516995"
+            ]
+        },
+        {
+            "id": 27,
+            "itemNo": "WD5ISAO6",
+            "name": "Leather sneakers",
+            "brand": "MANGO",
+            "description": "Monocolor leather sneakers.",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53061051_01.jpg?ts=1565166788672&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53061051_01_D6.jpg?ts=1565166788672&imwidth=342&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53061051_01_B.jpg?ts=1565166788672&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 28,
+            "itemNo": "UEO53H9S",
+            "name": "Suede-appliqué retro sneakers",
+            "brand": "MANGO",
+            "description": "Retro style. Suede appliqué. Contrasting appliqués. Rounded toe. Volume sole . Laces. Interior cotton lining.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53091043_92.jpg?ts=1563539591488&imwidth=456&imdensity=1",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53091043_92_D4.jpg?ts=1563539591488&imwidth=304&imdensity=1",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53091043_92_D3.jpg?ts=1563539591488&imwidth=456&imdensity=1"
+            ]
+        },
+        {
+            "id": 29,
+            "itemNo": "1B5D6SCR",
+            "name": " Nike React Presto",
+            "brand": "NIKE",
+            "description": "White/Black/Atomic Violet/Night Maroon.",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/gkflrde5irot5tuutwzd/react-presto-mens-shoe-c4Rbf6.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/x8d5hzxc2foacg4myun6/react-presto-mens-shoe-c4Rbf6.jpg",
+                " https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/cxgtm2clr22zesboufg1/react-presto-mens-shoe-c4Rbf6.jpg"
+            ]
+        },
+        {
+            "id": 30,
+            "itemNo": "PN0AUQGE",
+            "name": " Nike React Presto",
+            "brand": "NIKE",
+            "description": "Black/White/Gum Light Brown/Black.",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/a8a61e70-eb7f-480b-8ca8-a83c9d7ce901/react-presto-mens-shoe-c4Rbf6.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/b1147bd1-808b-4689-bb8b-4339521b41af/react-presto-mens-shoe-c4Rbf6.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/28a7dd7d-4080-44fa-b16c-42f986469390/react-presto-mens-shoe-c4Rbf6.jpg"
+            ]
+        },
+        {
+            "id": 31,
+            "itemNo": "VB9WOZ5S",
+            "name": "Nike React Element 55",
+            "brand": "NIKE",
+            "description": "Spruce Aura/Spruce Fog/Barely Volt/Volt",
+            "price": 100,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/etvu8ylaariqf6icuqnp/react-element-55-mens-shoe-68CDfV.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/rd5ksdqs4toxiylbcge7/react-element-55-mens-shoe-68CDfV.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/pystsgsdlvbgebpz3lyv/react-element-55-mens-shoe-68CDfV.jpg"
+            ]
+        },
+        {
+            "id": 32,
+            "itemNo": "7AZMG4KC",
+            "name": "Men’s tassel loafers",
+            "brand": "BERSHKA",
+            "description": "Black loafers featuring a chunky track sole.",
+            "price": 150,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "smart",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7152/132/040/7152132040_1_1_3.jpg?t=1574937523355",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7152/132/040/7152132040_2_2_3.jpg?t=1574433228692",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7152/132/040/7152132040_2_4_3.jpg?t=1574937523355"
+            ]
+        },
+        {
+            "id": 33,
+            "itemNo": "4ZRW5TJU",
+            "name": "Men’s tassel loafers",
+            "brand": "BERSHKA",
+            "description": "Black loafers featuring a chunky track sole.",
+            "price": 50,
+            "size": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "type": "men_shoes",
+            "category": "smart",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7150/132/040/7150132040_2_5_3.jpg?t=1569510629597",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7150/132/040/7150132040_2_2_3.jpg?t=1569510629597",
+                "https://static.bershka.net/4/photos2/2019/I/1/2/p/7150/132/040/7150132040_2_4_3.jpg?t=1574937504712"
+            ]
+        },
+        {
+            "id": 34,
+            "itemNo": "JIK14AX9",
+            "name": "Nike Court Borough Mid 2",
+            "brand": "NIKE",
+            "description": "Wheat/Gum Medium Brown/Wheat",
+            "price": 100,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hrtlnujg8kucuftzmbnr/court-borough-mid-2-little-kids-boot-2BPfpM.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/uwsvbdinmp73evsitedk/court-borough-mid-2-little-kids-boot-2BPfpM.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/kromvr6cri3vekxbpzo4/court-borough-mid-2-little-kids-boot-2BPfpM.jpg"
+            ]
+        },
+        {
+            "id": 35,
+            "itemNo": "950MF8PS",
+            "name": " Nike Woodside 2 High ACG",
+            "brand": "NIKE",
+            "description": "a water-resistant upper and soft, warm lining for lasting comfort.",
+            "price": 150,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/xazxd4ns9uni5zlex7eg/woodside-2-high-acg-big-kids-boot-aG0LdZ.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kkrd7ywmyltonqqqntpu/woodside-2-high-acg-big-kids-boot-aG0LdZ.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/boakpneklqbiwunbrxnx/woodside-2-high-acg-big-kids-boot-aG0LdZ.jpg"
+            ]
+        },
+        {
+            "id": 36,
+            "itemNo": "S3GJNOXD",
+            "name": "Nike Court Borough Mid 2 Boot",
+            "brand": "NIKE",
+            "description": "Sequoia/Pink Blast/Black/Aurora",
+            "price": 50,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/osrktpmojp4y6rx3qdpk/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/v8nyjqk51zmrko0lwuva/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/pdmdchaibaulc8ug9zmw/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg"
+            ]
+        },
+        {
+            "id": 37,
+            "itemNo": "OWJHP49R",
+            "name": "Nike Air Max Plus 3",
+            "brand": "NIKE",
+            "description": " Black/Hyper Blue/White/Chamois",
+            "price": 150,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/yfxzpiwmeyegnmkxjkch/air-max-plus-3-big-kids-shoe-8TBNCv.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tof5vkpvycnlwpy6dafd/air-max-plus-3-big-kids-shoe-8TBNCv.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e96hii9bo8le2hcslutt/air-max-plus-3-big-kids-shoe-8TBNCv.jpg"
+            ]
+        },
+        {
+            "id": 38,
+            "itemNo": "TZKH56XW",
+            "name": "Nike Air VaporMax 2019",
+            "brand": "NIKE",
+            "description": " Dark Grey/Wolf Grey/Black/Total Orange",
+            "price": 200,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/dvujnt5vdkp7rjp4msb7/air-vapormax-2019-big-kids-shoe-zx51TP.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/oorg5kigt5lrbbif5mt9/air-vapormax-2019-big-kids-shoe-zx51TP.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i45kea7yhh3m8l0anei7/air-vapormax-2019-big-kids-shoe-zx51TP.jpg"
+            ]
+        },
+        {
+            "id": 39,
+            "itemNo": "PMC2O10V",
+            "name": " Nike Joyride Nova",
+            "brand": "NIKE",
+            "description": "  Black/Aurora/Metallic Dark Grey/Barely Volt",
+            "price": 250,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jnl0e8vszad798o5t5mo/joyride-nova-little-big-kids-shoe-ZmKmgg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/diq8w3vug4ekozocxswd/joyride-nova-little-big-kids-shoe-ZmKmgg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dxp53lgyb8dnsm3tazit/joyride-nova-little-big-kids-shoe-ZmKmgg.jpg"
+            ]
+        },
+        {
+            "id": 40,
+            "itemNo": "LXDQWGKB",
+            "name": "Nike Air Zoom Pegasus Vintage Floral",
+            "brand": "NIKE",
+            "description": "Black/Pale Ivory/White/Pink Tint",
+            "price": 200,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_girl_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/le2vegs4dl8s7k2dgwiz/air-zoom-pegasus-vintage-floral-little-big-kids-shoe-t03vts.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ugpoqvbi6iu0knkuqu82/air-zoom-pegasus-vintage-floral-little-big-kids-shoe-t03vts.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dzw1xlyjippbg0wtdaiv/air-zoom-pegasus-vintage-floral-little-big-kids-shoe-t03vts.jpg"
+            ]
+        },
+        {
+            "id": 41,
+            "itemNo": "IXWN7FAW",
+            "name": "Nike Court Borough Mid 2",
+            "brand": "NIKE",
+            "description": "Wheat/Gum Medium Brown/Wheat",
+            "price": 100,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/awi61wbeelllide1p4mx/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/pnyw5y2csha7mj0fqfxi/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bnxkoniznq7q6wrvrgqi/court-borough-mid-2-boot-big-kids-shoe-WjmZh1.jpg"
+            ]
+        },
+        {
+            "id": 42,
+            "itemNo": "6R8AJCK9",
+            "name": "Nike Air Max Goadome ACG",
+            "brand": "NIKE",
+            "description": "Olive Canvas/Anthracite/Black/Olive Canvas",
+            "price": 150,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "boots",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/n27zrv1fxftlskchp8kq/air-max-goadome-acg-little-kids-shoe-prPwMg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fv5ndnwexftxwzuvjbzu/air-max-goadome-acg-little-kids-shoe-prPwMg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/nwqpb7pdafewptlgxrll/air-max-goadome-acg-little-kids-shoe-prPwMg.jpg"
+            ]
+        },
+        {
+            "id": 43,
+            "itemNo": "WUNA9JVX",
+            "name": "Nike Air VaporMax Flyknit 3",
+            "brand": "NIKE",
+            "description": "Vast Grey/Dark Stucco/Electric Green/Black",
+            "price": 150,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/npj2vw02ozrlyjgrkxjh/air-vapormax-flyknit-3-big-kids-shoe-tMZqTB.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kqsdentldtqj3mo8cbyz/air-vapormax-flyknit-3-big-kids-shoe-tMZqTB.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/uqid5ayuvvlmhddwaddr/air-vapormax-flyknit-3-big-kids-shoe-tMZqTB.jpg"
+            ]
+        },
+        {
+            "id": 44,
+            "itemNo": "S1WUIH49",
+            "name": "Nike React Presto",
+            "brand": "NIKE",
+            "description": "Black/Habanero Red/University Blue/Black",
+            "price": 100,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wcdkniaoigyxafdgpfzg/react-presto-mens-shoe-c4Rbf6.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/rtuknqwixkwiqqtyrdtm/react-presto-big-kids-shoe-cSDkzN.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/mcalnbtz2embauhasavq/react-presto-big-kids-shoe-cSDkzN.jpg"
+            ]
+        },
+        {
+            "id": 45,
+            "itemNo": "FN0L86BX",
+            "name": "Nike Air Max 270",
+            "brand": "NIKE",
+            "description": "Pure Platinum/Wolf Grey/Aurora/Black",
+            "price": 200,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/g0tpslhd2qxxnpgywwvu/air-max-270-big-kids-shoe-HbtNX3.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/jvag5c0pgvchjwrjmwyp/air-max-270-big-kids-shoe-HbtNX3.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ujihapvajrj226rfz7lb/air-max-270-big-kids-shoe-HbtNX3.jpg"
+            ]
+        },
+        {
+            "id": 46,
+            "itemNo": "2AFK6IXE",
+            "name": "Freak 1",
+            "brand": "NIKE",
+            "description": "Black/White/Lucid Green/Black",
+            "price": 100,
+            "size": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "type": "kids_boy_shoes",
+            "category": "sneakers",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/z5nzyipadqsdos42c6or/freak-1-big-kids-shoe-qwl3Jb.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/qk5fjr0wd6rvzbhwlrgf/freak-1-big-kids-shoe-qwl3Jb.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wp9zocva9kfbwnjlkh22/freak-1-big-kids-shoe-qwl3Jb.jpg"
+            ]
+        },
+        {
+            "id": 47,
+            "itemNo": "X07FNM5L",
+            "name": "Faux leather backpack",
+            "brand": "BERSHKA",
+            "description": "Length x Height x Width: 38 x 34 x 11 cm.",
+            "price": 50,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/0/2/p/4401/668/800/4401668800_1_1_3.jpg?t=1575363890284",
+                "https://static.bershka.net/4/photos2/2020/V/0/2/p/4401/668/800/4401668800_2_4_1.jpg?t=1575363890284",
+                "https://static.bershka.net/4/photos2/2020/V/0/2/p/4401/668/800/4401668800_2_2_1.jpg?t=1575363890284"
+            ]
+        },
+        {
+            "id": 48,
+            "itemNo": "WWZ71T8U",
+            "name": "Eastpak camouflage backpack",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 41 x 28 x 17 cm.",
+            "price": 100,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9829/667/505/9829667505_1_1_3.jpg?t=1565702297260",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9829/667/505/9829667505_2_4_1.jpg?t=1565702297260",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9829/667/505/9829667505_2_2_1.jpg?t=1565702297260"
+            ]
+        },
+        {
+            "id": 49,
+            "itemNo": "ZTWJCOKX",
+            "name": "Technical pouch",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width:25x15x10 cm.",
+            "price": 50,
+            "type": "men_bags",
+            "category": "crossbody",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9814/986/505/9814986505_1_1_3.jpg?t=1569430165312",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9814/986/505/9814986505_2_4_1.jpg?t=1569430165312",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9814/986/505/9814986505_2_2_1.jpg?t=1569430165312"
+            ]
+        },
+        {
+            "id": 50,
+            "itemNo": "W6RNFQLJ",
+            "name": "Crossbody bags",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 27 x 17 x 3 cm.",
+            "price": 100,
+            "type": "men_bags",
+            "category": "crossbody",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9836/668/800/9836668800_1_1_3.jpg?t=1573559890862",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9836/668/800/9836668800_2_4_1.jpg?t=1573559890862",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9836/668/800/9836668800_2_2_1.jpg?t=1573559890862"
+            ]
+        },
+        {
+            "id": 51,
+            "itemNo": "CLPQEI7Z",
+            "name": "Faux leather belt bag",
+            "brand": "BERSHKA",
+            "description": " Height x Length x Width:13 x 34 x 9 cm",
+            "price": 50,
+            "type": "men_bags",
+            "category": "beltbags",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9826/986/702/9826986702_1_1_3.jpg?t=1574442342353",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9826/986/702/9826986702_2_4_1.jpg?t=1574442342353",
+                "https://static.bershka.net/4/photos2/2019/I/0/2/p/9826/986/702/9826986702_2_2_1.jpg?t=1574442342353"
+            ]
+        },
+        {
+            "id": 52,
+            "itemNo": "WOQ4WGM1",
+            "name": "Nike Sportswear Elemental",
+            "brand": "NIKE",
+            "description": "Jade Horizon/Sequoia/Metallic Silver",
+            "price": 50,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i9ijj00dbpgq62mrxvr1/sportswear-elemental-winterized-backpack-mnr9JZ.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/qqq0hixrseji47oxplch/sportswear-elemental-winterized-backpack-mnr9JZ.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nwaqpwrsekpd3vdisa35/sportswear-elemental-winterized-backpack-mnr9JZ.jpg"
+            ]
+        },
+        {
+            "id": 53,
+            "itemNo": "FBP6D1NO",
+            "name": "Nike Sportswear RPM",
+            "brand": "NIKE",
+            "description": "Gridiron/Gridiron/White",
+            "price": 100,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ptxc7ldzubbsdqxds73b/sportswear-rpm-backpack-f6pVpb.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/xrp0mwo56jabetxapsly/sportswear-rpm-backpack-f6pVpb.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/94c92bd9-0bb0-4e44-b05c-a8eacf19e100/sportswear-rpm-backpack-f6pVpb.jpg"
+            ]
+        },
+        {
+            "id": 54,
+            "itemNo": "PL1ZSMKT",
+            "name": "Nike Tech",
+            "brand": "NIKE",
+            "description": "Black/Black/Metallic Gold",
+            "price": 50,
+            "type": "men_bags",
+            "category": "beltbags",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/akidzrshaupoyhyx1ud7/tech-hip-pack-VEo0le.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bsd9iuotaplbjpl7j9ye/tech-hip-pack-VEo0le.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/e1vqpkgbn1dfwcj3rf3r/tech-hip-pack-VEo0le.jpg"
+            ]
+        },
+        {
+            "id": 55,
+            "itemNo": "INKUWOZH",
+            "name": "Golf Duffel Bag",
+            "brand": "NIKE",
+            "description": "Black/Black/Black",
+            "price": 200,
+            "type": "men_bags",
+            "category": "crossbody",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/iyb1ymi4t9bstv5hjwsu/departure-golf-duffel-bag-9dhX6t.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jwqpgdwdjmhyvfyh9dnu/departure-golf-duffel-bag-9dhX6t.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/zrhxjkxneirnko4vlmsl/departure-golf-duffel-bag-9dhX6t.jpg"
+            ]
+        },
+        {
+            "id": 56,
+            "itemNo": "P6MORQZ2",
+            "name": "Flap zipped bag",
+            "brand": "MANGO",
+            "description": "Blue/Black/Black",
+            "price": 100,
+            "type": "men_bags",
+            "category": "crossbody",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040545_52_B.jpg?ts=1570637035247&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040545_52.jpg?ts=1570637035247&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040545_52_D2.jpg?ts=1570637035247&imwidth=342&imdensity=2"
+            ]
+        },
+        {
+            "id": 57,
+            "itemNo": "9PNSEAFV",
+            "name": "Flap zipped bag",
+            "brand": "MANGO",
+            "description": "Blue/Black/Black",
+            "price": 100,
+            "type": "men_bags",
+            "category": "beltbags",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57015936_52_B.jpg?ts=1569422031100&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57015936_52.jpg?ts=1569422031100&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57015936_52_D2.jpg?ts=1569422031100&imwidth=342&imdensity=2"
+            ]
+        },
+        {
+            "id": 58,
+            "itemNo": "JWO9AVG7",
+            "name": "Lapel nylon backpack",
+            "brand": "MANGO",
+            "description": "Khaki color",
+            "price": 100,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095934_37_B.jpg?ts=1568644407628&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095934_37_D2.jpg?ts=1568644407628&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57095934_37_D4.jpg?ts=1568644407628&imwidth=342&imdensity=2"
+            ]
+        },
+        {
+            "id": 59,
+            "itemNo": "XPJ1GHKL",
+            "name": "National Geographic backpack",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 33 x 42 x 19 cm.",
+            "price": 50,
+            "type": "women_bags",
+            "category": "backpacks",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8962/851/400/8962851400_1_1_1.jpg?t=1573031466179",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8962/851/400/8962851400_2_4_1.jpg?t=1572870116607",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8962/851/400/8962851400_2_2_1.jpg?t=1572870116607"
+            ]
+        },
+        {
+            "id": 60,
+            "itemNo": "W4SZA2B5",
+            "name": " Faux leather backpack",
+            "brand": "BERSHKA",
+            "description": "Height x Width x Length:31 x 22 x 11 cm.",
+            "price": 100,
+            "type": "women_bags",
+            "category": "backpacks",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8911/626/808/8911626808_2_4_1.jpg?t=1569428549272",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8911/626/808/8911626808_2_3_1.jpg?t=1562854237388",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8911/626/808/8911626808_2_2_1.jpg?t=1569428549272"
+            ]
+        },
+        {
+            "id": 61,
+            "itemNo": "LWAGCSQ0",
+            "name": " Belt bag with chain",
+            "brand": "BERSHKA",
+            "description": "Height x Width x Length:15 x 22 x 11 cm.",
+            "price": 50,
+            "type": "women_bags",
+            "category": "beltbags",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/8924/862/800/8924862800_1_1_3.jpg?t=1574451133931",
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/8924/862/800/8924862800_2_4_1.jpg?t=1574451133931",
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/8924/862/800/8924862800_2_2_1.jpg?t=1574451133931"
+            ]
+        },
+        {
+            "id": 62,
+            "itemNo": "8XT752FW",
+            "name": "Quilted handbag with chain detail",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 18 x 24 x 9 cm.",
+            "price": 50,
+            "type": "women_bags",
+            "category": "handbag",
+            "image": [
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/3376/862/902/3376862902_2_1_3.jpg?t=1575566719025",
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/3376/862/902/3376862902_2_4_1.jpg?t=1575566719025",
+                "https://static.bershka.net/4/photos2/2020/V/0/1/p/3376/862/902/3376862902_2_2_1.jpg?t=1575566719025"
+            ]
+        },
+        {
+            "id": 63,
+            "itemNo": "NZEITRH0",
+            "name": "Faux leather tote bag",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 18 x 24 x 9 cm.",
+            "price": 100,
+            "type": "women_bags",
+            "category": "handbag",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8941/266/800/8941266800_1_1_3.jpg?t=1573577318365",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8941/266/800/8941266800_2_4_1.jpg?t=1573577318365",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8941/266/800/8941266800_2_2_1.jpg?t=1573577318365"
+            ]
+        },
+        {
+            "id": 64,
+            "itemNo": "4WFNZ3JG",
+            "name": "Faux fur bag with chain",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 22 x 21 x 1 cm",
+            "price": 50,
+            "type": "women_bags",
+            "category": "crossbody",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8965/920/800/8965920800_2_1_3.jpg?t=1574689816225",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8965/920/800/8965920800_2_4_1.jpg?t=1574348722402",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8965/920/800/8965920800_2_2_1.jpg?t=1574348722402"
+            ]
+        },
+        {
+            "id": 65,
+            "itemNo": "ZDBT52W8",
+            "name": " Crossbody bag with fringing",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 17 x 22 x 9 cm",
+            "price": 150,
+            "type": "women_bags",
+            "category": "crossbody",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8942/668/800/8942668800_1_1_1.jpg?t=1575049892637",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8942/668/800/8942668800_2_4_1.jpg?t=1575049892637",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8942/668/800/8942668800_2_2_1.jpg?t=1575049892637"
+            ]
+        },
+        {
+            "id": 66,
+            "itemNo": "8LCJRNAP",
+            "name": "Quilted handbag with chain detail",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 19 x 23 x 7 cm.",
+            "price": 50,
+            "type": "women_bags",
+            "category": "handbag",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8947/266/302/8947266302_1_1_1.jpg?t=1571320185713",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8947/266/302/8947266302_2_4_1.jpg?t=1571320185713",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8947/266/302/8947266302_2_2_1.jpg?t=1571320185713"
+            ]
+        },
+        {
+            "id": 67,
+            "itemNo": "VLWRKD8X",
+            "name": " Mock croc silver bag",
+            "brand": "BERSHKA",
+            "description": "Height x Length x Width: 21 x 17 x 9 cm.",
+            "price": 150,
+            "type": "women_bags",
+            "category": "handbag",
+            "image": [
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8936/862/808/8936862808_2_1_3.jpg?t=1567078583034",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8936/862/808/8936862808_2_4_1.jpg?t=1567078583034",
+                "https://static.bershka.net/4/photos2/2019/I/0/1/p/8936/862/808/8936862808_2_2_1.jpg?t=1567078583034"
+            ]
+        },
+        {
+            "id": 68,
+            "itemNo": "UHEWJ3NV",
+            "name": "Training Backpack (Extra Large) Nike Brasilia",
+            "brand": "NIKE",
+            "description": "Midnight Navy/Black/White",
+            "price": 100,
+            "type": "women_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/jqbmle6pnwftnnhwji5j/brasilia-training-backpack-extra-large-mGl0t1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tw3lblak3jhdj9eajtje/brasilia-training-backpack-extra-large-mGl0t1.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nhwfqzuogfqk84owhs4t/brasilia-training-backpack-extra-large-mGl0t1.jpg"
+            ]
+        },
+        {
+            "id": 69,
+            "itemNo": "6CEFKUMD",
+            "name": "Nike Heritage 2.0",
+            "brand": "NIKE",
+            "description": "Black/Black/White",
+            "price": 150,
+            "type": "women_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/uq8345vpz6akmufmw7zm/heritage-2-backpack-7LvmB0.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tgmutcdawtsenwyoksul/heritage-2-backpack-7LvmB0.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/oqpke0gmokew4ip0qgej/heritage-2-backpack-7LvmB0.jpg"
+            ]
+        },
+        {
+            "id": 70,
+            "itemNo": "FOP8BZNW",
+            "name": " Crossbody Bag Nike Heritage 2.0",
+            "brand": "NIKE",
+            "description": "University Red/Echo Pink/University Red",
+            "price": 100,
+            "type": "women_bags",
+            "category": "crossbody",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bynpfrckwykzuac7swm2/heritage-2-crossbody-bag-gfg1w2.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tcvphfpuhnnzpx7sub0x/heritage-2-crossbody-bag-gfg1w2.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/k1zd7noqwu7dstu7ph7r/heritage-2-crossbody-bag-gfg1w2.jpg"
+            ]
+        },
+        {
+            "id": 71,
+            "itemNo": "ZFX2WHPC",
+            "name": " Flap leather bag",
+            "brand": "MANGO",
+            "description": "Flap leather cross bag",
+            "price": 50,
+            "type": "women_bags",
+            "category": "crossbody",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53043777_CU_B.jpg?ts=1562812412071&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53043777_CU.jpg?ts=1562812412071&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53043777_CU_D3.jpg?ts=1562812412071&imwidth=256&imdensity=2"
+            ]
+        },
+        {
+            "id": 72,
+            "itemNo": "BLT5SFMO",
+            "name": "Leather bag",
+            "brand": "MANGO",
+            "description": "Croc-effect belt bag",
+            "price": 50,
+            "type": "women_bags",
+            "category": "beltbags",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53090850_30_B.jpg?ts=1556793201619&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53090850_30.jpg?ts=1556793201619&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53090850_30_D3.jpg?ts=1556793201619&imwidth=512&imdensity=2"
+            ]
+        },
+        {
+            "id": 73,
+            "itemNo": "CNAG72SW",
+            "name": "Kids' Printed Backpack Nike Brasilia",
+            "brand": "NIKE",
+            "description": "Light Bone/Black/Black",
+            "price": 50,
+            "type": "kids_boy_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/m1b2ga4betc5cjzad2cb/brasilia-kids-printed-backpack-HXkGrh.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/frvcrysewhlogktq1xju/brasilia-kids-printed-backpack-HXkGrh.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ew9i6ws0mgzs11stafm7/brasilia-kids-printed-backpack-HXkGrh.jpg"
+            ]
+        },
+        {
+            "id": 74,
+            "itemNo": "PVFH7BMK",
+            "name": "Kids' Backpack (Mini) Nike Brasilia Just Do It",
+            "brand": "NIKE",
+            "description": "Black/Black/White",
+            "price": 100,
+            "type": "kids_boy_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/mjfbgarglhdfzhxjnggu/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/virhlsbpivsrjgxa095w/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/qmffuekmimyinpjlvbvn/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg"
+            ]
+        },
+        {
+            "id": 75,
+            "itemNo": "GP5BUF9X",
+            "name": "Big Kids' Backpack (Large) Jordan",
+            "brand": "NIKE",
+            "description": " Black/Gold",
+            "price": 150,
+            "type": "kids_boy_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bf7vngqhoeujtxyfytxi/jordan-big-kids-backpack-large-mQ1bm9.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ekgntnkaj2l82je4gged/jordan-big-kids-backpack-large-mQ1bm9.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bru79gvu2hdl9mkeak7j/jordan-big-kids-backpack-large-mQ1bm9.jpg"
+            ]
+        },
+        {
+            "id": 76,
+            "itemNo": "RUWFS0XM",
+            "name": "Kids' Duffel Bag Nike Gym Club",
+            "brand": "NIKE",
+            "description": "Black/Black/Black",
+            "price": 50,
+            "type": "kids_boy_bags",
+            "category": "crossbody",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e4cakrbskkp4jv4swchm/gym-club-kids-duffel-bag-DNTBjb81.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jajkwuf58cxj4d1yjosm/gym-club-kids-duffel-bag-DNTBjb81.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nc2mqtyyuvurp3qwdjiu/gym-club-kids-duffel-bag-DNTBjb81.jpg"
+            ]
+        },
+        {
+            "id": 77,
+            "itemNo": "EWD1O3IC",
+            "name": "Kids' Printed Backpack (Mini) Nike Brasilia JDI",
+            "brand": "NIKE",
+            "description": "Rose Gold/Rose Gold/Rose Gold",
+            "price": 150,
+            "type": "kids_girl_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/oklkbfrmv2k0jl17vkyp/brasilia-jdi-kids-printed-backpack-mini-HfqnKg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5,q_80/s7h7v2asx7uja7jvusc0/brasilia-jdi-kids-printed-backpack-mini-HfqnKg.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5,q_80/pmfyfjqnyrl7zygi00mk/brasilia-jdi-kids-printed-backpack-mini-HfqnKg.jpg"
+            ]
+        },
+        {
+            "id": 78,
+            "itemNo": "GDARQT6S",
+            "name": "Kids' Backpack (Mini) Nike Brasilia Just Do It",
+            "brand": "NIKE",
+            "description": "Dynamic Yellow/Thunder Grey/Thunder Grey",
+            "price": 100,
+            "type": "kids_girl_bags",
+            "category": "backpacks",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/sintzmfxwb7dkgngsyno/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/sintzmfxwb7dkgngsyno/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wpwngpkmlvghjed99g2z/brasilia-just-do-it-kids-backpack-mini-9ZSSdT.jpg"
+            ]
+        },
+        {
+            "id": 79,
+            "itemNo": "A5TUGC4N",
+            "name": "Kids' Duffel Bag Nike Gym Club",
+            "brand": "NIKE",
+            "description": "Teal Nebula/Teal Nebula/Bright",
+            "price": 100,
+            "type": "kids_girl_bags",
+            "category": "crossbody",
+            "image": [
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/js8uurenargvkhk4ovkc/gym-club-kids-duffel-bag-DNTBjb81.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/yvkpqxz5ymqdg0ug93wl/gym-club-kids-duffel-bag-DNTBjb81.jpg",
+                "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nz3nvw1jnr6asnvmo3ag/gym-club-kids-duffel-bag-DNTBjb81.jpg"
+            ]
+        },
+        {
+            "id": 80,
+            "itemNo": "3IZAUBKW",
+            "name": "Packable technical fabric backpack",
+            "brand": "MANGO",
+            "description": "Teal Nebula/Teal Nebula/Bright",
+            "price": 150,
+            "type": "men_bags",
+            "category": "backpacks",
+            "image": [
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67090536_16_B.jpg?ts=1573221840070&imwidth=512&imdensity=2",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67090536_16_D2.jpg?ts=1573221840070&imwidth=256&imdensity=2,",
+                "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67090536_16_D4.jpg?ts=1573221840070&imwidth=256&imdensity=2"
+            ]
+        }
+    ]
+}
